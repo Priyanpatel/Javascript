@@ -1,2 +1,2 @@
 # Javascript
-A code for javascript practise
+A code for javascript practice
